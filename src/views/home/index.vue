@@ -1,7 +1,11 @@
 <template>
   <div>
     <h1>{{info}}</h1>
+    <router-link to="/michelle">
+    <spam>About me </spam>
+    </router-link>
   </div>
+
 </template>
 
 <script>
